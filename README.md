@@ -47,7 +47,7 @@ Base URL: `https://olinda.bcb.gov.br/olinda/servico/Pix_DadosAbertos/versao/v1/o
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/pix-analise-dados-publicos.git
+   git clone https://github.com/RaphaelCesar/pix-analise-dados-publicos.git
    ```
 2. Instale as dependências:
    ```bash
