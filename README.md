@@ -59,4 +59,4 @@ Base URL: `https://olinda.bcb.gov.br/olinda/servico/Pix_DadosAbertos/versao/v1/o
 
 Raphael — em transição de carreira para análise de dados, com background em Engenharia Mecânica e experiência prática em gestão de dados de vendas e estoque no varejo alimentício.
 
-[LinkedIn](#) · [Outros projetos no GitHub](#)
+[https://www.linkedin.com/in/raphaelsousa08/](#) · 
